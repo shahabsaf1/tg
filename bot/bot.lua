@@ -218,6 +218,7 @@ function create_config( )
       "images",
       "img_google",
       "location",
+      "banhammer",
       "media",
       "plugins",
       "channels",
